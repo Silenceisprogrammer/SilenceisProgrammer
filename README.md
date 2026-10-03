@@ -2,6 +2,13 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
+                                                             
+ _____ __    _____ __ __ _____ __    _ _ _ _____ __ __ _____ 
+|   __|  |  |  _  |  |  |  _  |  |  | | | |  _  |  |  |   __|
+|__   |  |__|     |_   _|     |  |__| | | |     |_   _|__   |
+|_____|_____|__|__| |_| |__|__|_____|_____|__|__| |_| |_____|
+                                                             
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4465F7&width=435&lines=I+am+Guru+Prasad+Mohanty)](https://git.io/typing-svg)
 
 <img alt="Profile Banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYzOXMwb3FkMnU2ZDhqY2lhZjNpYzl0cHVlbWw1cG4yODRwNHd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif">
