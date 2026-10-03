@@ -1,4 +1,4 @@
-
+![Preview](./spider_man-ascii-art.png)
 <div align="center">
 
 <!-- Animated Typing Header -->                                                                                                                        
